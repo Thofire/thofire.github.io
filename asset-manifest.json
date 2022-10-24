@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.35e5da96.css",
+    "main.js": "/static/js/main.8e2903f3.js",
+    "static/media/current.png": "/static/media/current.312ad473b472ebf82e0a.png",
+    "static/media/TApicker.png": "/static/media/TApicker.54fbe7f8095db3785c52.png",
+    "static/media/newpaws.jpg": "/static/media/newpaws.748d892c2be49e071fc6.jpg",
+    "static/media/CV.pdf": "/static/media/CV.e9027f18917051606f96.pdf",
+    "static/media/noteflow.jpg": "/static/media/noteflow.ffb3ee835260654e1163.jpg",
+    "index.html": "/index.html",
+    "main.35e5da96.css.map": "/static/css/main.35e5da96.css.map",
+    "main.8e2903f3.js.map": "/static/js/main.8e2903f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35e5da96.css",
+    "static/js/main.8e2903f3.js"
+  ]
+}
