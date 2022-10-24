@@ -52,10 +52,6 @@ footer a {
     margin-bottom: 4rem;
     color: var(--color-bg);
 }
-/* ================== Media Queries ( Medium Devices ) ==== */
-@media screen and (max-width: 1024px) {
-
-}
 /* ================== Media Queries ( Small Devices ) ==== */
 @media screen and (max-width: 600px) {
     .permalinks {

@@ -1,5 +1,5 @@
 import React from 'react'
-import './experience.css'
+import './Experience.css'
 import { IoMdCheckbox } from 'react-icons/io'
 const Experience = () => {
   return (

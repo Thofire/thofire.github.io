@@ -2,7 +2,7 @@ import React from 'react'
 import './About.css'
 import ME from '../../assets/current.png'
 import { FaAward } from 'react-icons/fa'
-import {IoSchoolOutline} from 'react-icons/io'
+import {MdOutlineSchool} from 'react-icons/md'
 import {VscFolderLibrary} from 'react-icons/vsc'
 const About = () => {
   return (
@@ -26,7 +26,7 @@ const About = () => {
             </article>
 
             <article className='about__card'>
-              <IoSchoolOutline className='about__icon' />
+              <MdOutlineSchool className='about__icon' />
               <h5>Schooling</h5>
               <small>B.S in Computer Science</small>
             </article>
@@ -53,4 +53,4 @@ const About = () => {
   )
 }
 
-export default about
+export default About
