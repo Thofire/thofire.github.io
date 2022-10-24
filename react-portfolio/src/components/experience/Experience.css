@@ -32,12 +32,15 @@
 
 .experience__details {
     display: flex;
+    justify-content: center;
     gap: 1rem;
 }
 
-.expereince__details-icon {
+.experience__details-icon {
     margin-top: 6px;
     color: var(--color-primary);
+    width: 2em;
+    height: 2em;
 }
 /* ================== Media Queries ( Medium Devices ) ==== */
 @media screen and (max-width: 1024px) {

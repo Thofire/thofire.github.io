@@ -1,6 +1,6 @@
 import React from 'react'
 import './Experience.css'
-import { IoMdCheckbox } from 'react-icons/io'
+import { IoIosCheckmarkCircleOutline } from 'react-icons/io'
 const Experience = () => {
   return (
     <section id='experience'>
@@ -12,7 +12,7 @@ const Experience = () => {
           <h3>Frontend Development</h3>
           <div className='experience__content'>
             <article className='experience__details'>
-              <IoMdCheckbox className='experience__details-icon' />
+              <IoIosCheckmarkCircleOutline className='experience__details-icon' />
               <div>
                 <h4>HTML</h4>
                 <small className='text-light'>Experienced</small>
@@ -20,7 +20,7 @@ const Experience = () => {
             </article>
 
             <article className='experience__details'>
-              <IoMdCheckbox className='experience__details-icon' />
+              <IoIosCheckmarkCircleOutline className='experience__details-icon' />
               <div>
                 <h4>CSS</h4>
                 <small className='text-light'>Intermediate</small>
@@ -28,24 +28,24 @@ const Experience = () => {
             </article>
 
             <article className='experience__details'>
+            <IoIosCheckmarkCircleOutline className='experience__details-icon' />
               <div>
-                <IoMdCheckbox className='experience__details-icon' />
                 <h4>JavaScript</h4>
                 <small className='text-light'>Experienced</small>
               </div>
             </article>
 
             <article className='experience__details'>
+            <IoIosCheckmarkCircleOutline className='experience__details-icon' />
               <div>
-                <IoMdCheckbox className='experience__details-icon' />
                 <h4>XML</h4>
                 <small className='text-light'>Intermediate</small>
               </div>
             </article>
 
             <article className='experience__details'>
+            <IoIosCheckmarkCircleOutline className='experience__details-icon' />
               <div>
-                <IoMdCheckbox className='experience__details-icon' />
                 <h4>React</h4>
                 <small className='text-light'>Intermediate</small>
               </div>
@@ -62,40 +62,40 @@ const Experience = () => {
           <h3>Backend Development</h3>
           <div className='experience__content'>
             <article className='experience__details'>
+            <IoIosCheckmarkCircleOutline className='experience__details-icon' />
               <div>
-                <IoMdCheckbox className='experience__details-icon' />
                 <h4>MySQL</h4>
                 <small className='text-light'>Experienced</small>
               </div>
             </article>
 
             <article className='experience__details'>
+            <IoIosCheckmarkCircleOutline className='experience__details-icon' />
               <div>
-                <IoMdCheckbox className='experience__details-icon' />
                 <h4>Java</h4>
                 <small className='text-light'>Experienced</small>
               </div>
             </article>
 
             <article className='experience__details'>
+            <IoIosCheckmarkCircleOutline className='experience__details-icon' />
               <div>
-                <IoMdCheckbox className='experience__details-icon' />
                 <h4>C++</h4>
                 <small className='text-light'>Experienced</small>
               </div>
             </article>
 
             <article className='experience__details'>
+            <IoIosCheckmarkCircleOutline className='experience__details-icon' />
               <div>
-                <IoMdCheckbox className='experience__details-icon' />
                 <h4>Python</h4>
                 <small className='text-light'>Intermediate</small>
               </div>
             </article>
 
             <article className='experience__details'>
+            <IoIosCheckmarkCircleOutline className='experience__details-icon' />
               <div>
-                <IoMdCheckbox className='experience__details-icon' />
                 <h4>Node JS</h4>
                 <small className='text-light'>Intermediate</small>
               </div>
